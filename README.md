@@ -1,1 +1,1 @@
-git@github.com:Bukavyna/React-count.git
+https://github.com/Bukavyna/React-count/tree/gh-pages
